@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+   
+}
+body{
+   background-color: black;
+}
+.container-fluid h1{
+    color: red;
+}
+.container .form-control{
+    background-color: black;
+    color: white;
+}
+.container {
+    margin: 3;
+
+}
+
+h3{
+    color: white;
+}
+h1{
+    color: white;
+}
